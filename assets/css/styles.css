@@ -288,7 +288,7 @@ img {
 .copy_link_mess{
     line-height:40px;
     border-radius:5px;
-    background:#630000;
+    background: hsl(38, 69%, 59%);
     color:#fff;
     position:fixed;
     padding:0 15px;
